@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corporate.DotnetSE.ExampleErrorHandlingCenter", "Corporate.DotnetSE.ExampleErrorHandlingCenter\Corporate.DotnetSE.ExampleErrorHandlingCenter.csproj", "{F63CE576-CB43-499A-A775-266CC773BE23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{609C8971-6E1F-4133-BE75-101551561120}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63CE576-CB43-499A-A775-266CC773BE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63CE576-CB43-499A-A775-266CC773BE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63CE576-CB43-499A-A775-266CC773BE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63CE576-CB43-499A-A775-266CC773BE23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
